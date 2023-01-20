@@ -1,5 +1,5 @@
-# Simple API example
-This is an simple example of the utilisation of FastAPI
+# Simple API examples
+This repositoryt contains some simple examples of API built with FastAPI.
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
