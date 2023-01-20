@@ -33,7 +33,7 @@ The both long command-lines have a same structure, they pipe multiple commands u
     
     - Demo
 
-          uvicorn src.simple.api:app --reload 
+          uvicorn src.maths.api:app --reload 
 
 
 
