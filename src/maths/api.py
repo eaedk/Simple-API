@@ -60,11 +60,11 @@ async def operation(input: Input):
 
     # try to execute the operation loop
     try:
-        resutl = input.x + input.y
+        result = input.x + input.y
 
         # format output
         output = {
-            "result": resutl,
+            "result": result,
             "operation": "addition",
             "way": "sending parameters as a payload",
             "x": input.x,
@@ -89,11 +89,11 @@ async def operation(a, b):
 
     # try to execute the operation loop
     try:
-        resutl = a + b
+        result = a + b
 
         # format output
         output = {
-            "result": resutl,
+            "result": result,
             "operation": "addition",
             "way": "Sending parameters by path/URL",
             "x": a,
